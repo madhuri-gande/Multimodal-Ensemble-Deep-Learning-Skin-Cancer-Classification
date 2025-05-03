@@ -1,4 +1,4 @@
-# Multimodal-Ensemble-Deep-Learning-Skin-Cancer-Classification
+# Multimodal-Ensemble-Deep-Learning-Skin-Cancer-Classification With Streamlit
 
 
 This project leverages machine learning and deep learning techniques to detect skin cancer using dermoscopic images and clinical metadata. The model uses a multimodal ensemble approach that combines multiple image classification models and metadata for accurate skin cancer classification.
